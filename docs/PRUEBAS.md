@@ -20,31 +20,6 @@ Resultado esperado:
 
 Si algo falla, pytest muestra el archivo, la línea y los valores que compara.
 
-## Qué es una prueba, en concreto
-
-Cada prueba llama a una función con datos conocidos y compara el resultado
-con el esperado:
-
-```python
-def test_no_se_puede_repetir_un_codigo_de_inventario(
-    como_admin: None, libro_demo: Callable[[str], dict]
-) -> None:
-    libro = libro_demo("Ficciones")
-
-    ok, mensaje, ejemplar_id = catalogo.agregar_ejemplar(
-        libro["id"], {"codigo_inventario": "ej-00001"}
-    )
-
-    assert not ok
-    assert "Ya existe un ejemplar" in mensaje
-    assert ejemplar_id is None
-```
-
-No solo confirman lo que sale bien: fijan los **errores que deben seguir
-ocurriendo**. Si alguien modifica el código para que acepte un código
-repetido, esta prueba falla y avisa antes de que el error llegue a la
-biblioteca.
-
 ## Base de datos de prueba
 
 Cada corrida crea una base SQLite temporal en la carpeta de temporales de
@@ -71,7 +46,7 @@ ninguna depende del orden en que se ejecuten las demás.
 | `test_base_datos.py` | 5 | Commit, rollback ante error, claves foráneas activas, respaldos |
 | `test_importar.py` | 6 | Importación, autores y palabras clave, idempotencia, reemplazo bloqueado por préstamos |
 
-### Errores esperados que quedan fijados
+### Errores esperados cubiertos
 
 - Libro sin título.
 - Código de inventario repetido.
@@ -101,7 +76,7 @@ ninguna depende del orden en que se ejecuten las demás.
 
 ## Qué no cubre
 
-Siendo honesto con el alcance:
+La suite no cubre:
 
 - **Interfaz gráfica.** No hay pruebas automáticas de ventanas ni widgets;
   esas se verifican con capturas y uso manual.
@@ -109,28 +84,6 @@ Siendo honesto con el alcance:
 - **Concurrencia.** El diseño es de una sola PC y un solo usuario por vez.
 - **Cifrado de la base** y política de contraseñas: todavía no existen.
 - **Migraciones de esquema.** `create_all` no altera tablas existentes.
-
-## Las pruebas como documentación
-
-Un nombre de prueba bien escrito describe el comportamiento esperado sin
-necesidad de leer la implementación:
-
-```
-test_no_se_puede_eliminar_un_libro_con_prestamos
-test_usuario_inexistente_y_clave_erronea_dan_el_mismo_mensaje
-test_el_formulario_no_puede_cambiar_el_estado_de_un_ejemplar_prestado
-```
-
-Eso es lo que algunos proyectos llaman *documentación viva*: no describe lo
-que el sistema debería hacer según un documento aparte, sino lo que **hace
-hoy**, y falla en el momento en que deja de ser cierto.
-
-## Comprobación de que la suite detecta regresiones
-
-Para no entregar pruebas decorativas, se quitó a propósito el guardia de
-permisos de `crear_libro`: la prueba correspondiente falló
-(`test_el_auxiliar_no_puede_crear_un_libro`), y el archivo se restauró
-verificando que su SHA-256 fuera idéntico al original.
 
 ## Agregar una prueba nueva
 

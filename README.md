@@ -22,20 +22,16 @@ libro.
 - **Vencidos:** listado de préstamos fuera de plazo, filtro por días de gracia y
   exportación a CSV para enviar recordatorios.
 - **Multas:** deudas por pérdida, registro de pagos y anulaciones.
-- **Ubicación:** búsqueda de cada ejemplar por sala, estantería y balda.
+- **Ubicación física:** cada ejemplar registra sala, estantería y balda.
 - **Usuarios y permisos:** roles de administrador, bibliotecario y auxiliar.
 - **Auditoría y respaldos:** registro de movimientos y copias de seguridad de la
   base local.
 
 ## Capturas
 
-| Catálogo | Socios |
-|---|---|
-| ![Catálogo](docs/captura_catalogo.png) | ![Socios](docs/captura_socios.png) |
-
-| Vencidos | Buscar ubicación |
-|---|---|
-| ![Vencidos](docs/captura_vencidos.png) | ![Buscar ubicación](docs/captura_ubicacion.png) |
+| Catálogo | Socios | Vencidos |
+|---|---|---|
+| ![Catálogo](docs/captura_catalogo.png) | ![Socios](docs/captura_socios.png) | ![Vencidos](docs/captura_vencidos.png) |
 
 ## Requisitos
 
@@ -151,13 +147,12 @@ tests/               pruebas automatizadas con pytest
 
 ## Datos y privacidad
 
-- La base real `data/biblioteca.db`, los respaldos, los CSV exportados y la
-  carpeta `.local/` están excluidos por `.gitignore`.
+- La base real `data/biblioteca.db`, los respaldos y los CSV exportados están
+  excluidos por `.gitignore`.
 - La demo se genera localmente a partir de datos ficticios; no se versiona.
 - Las capturas usan un catálogo de ejemplo y socios de ficción con correos
   `example.com`.
-- Antes de publicar cambios, revisar que no se agreguen bases de datos, listados
-  de socios ni archivos con información personal.
+- El repositorio no incluye listados de socios ni información personal.
 
 ## Documentación
 
@@ -167,9 +162,10 @@ tests/               pruebas automatizadas con pytest
 
 ## Estado del proyecto
 
-- [x] Esquema de datos, login por rol, tema visual, navegación y respaldos.
-- [x] Catálogo, socios, préstamos, vencidos y multas.
-- [x] Búsqueda de ubicación y exportación de recordatorios.
-- [ ] Reportes e indicadores históricos.
-- [ ] Auditoría visible desde la interfaz.
-- [ ] Inventario físico y etiquetas QR.
+**Fase 1 completa:** panel, catálogo, socios, préstamos, vencidos y multas.
+
+**Próximos pasos:**
+
+- Buscar ubicación por sala, estantería y balda (Fase 2).
+- Etiquetas QR, escáner y plano de la biblioteca (Fase 2).
+- Reportes, configuración, auditoría visible e inventario físico (Fase 3).

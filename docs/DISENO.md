@@ -6,7 +6,7 @@ ventanas, pero sí se pueden ver y modificar de otra forma muy directa.
 
 ## Cómo abrir las ventanas
 
-1. Doble clic en `run.bat` (o `\.venv\Scripts\python.exe -m app.main`).
+1. Doble clic en `run.bat` (o `.venv\Scripts\python.exe -m app.main`).
 2. Iniciar sesión con una de las cuentas de prueba:
 
    | Usuario | Contraseña | Rol |
@@ -104,9 +104,3 @@ compila, la consola muestra el archivo y la línea.
   revisar los cambios con `git diff` antes de confirmarlos.
 - Qt Designer sirve para crear archivos `.ui`, pero esta app no los usa. Migrar
   a `.ui` sería un cambio de arquitectura, no una simple vista previa.
-
-## Si querés una vista previa más rápida
-
-Se puede agregar un pequeño comando de desarrollo que abra directamente una
-pantalla con datos de demostración, sin pasar por el login. No existe todavía;
-si te resulta útil, se puede crear sin tocar la app principal.
