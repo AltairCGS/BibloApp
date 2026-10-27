@@ -1,0 +1,1755 @@
+{
+  "libros": [
+    {
+      "titulo": "Cien años de soledad",
+      "subtitulo": null,
+      "autores": [
+        "Gabriel García Márquez"
+      ],
+      "isbn": null,
+      "editorial": "Sudamericana",
+      "anio": 2006,
+      "idioma": "es",
+      "categoria": "Novela",
+      "dewey": "863",
+      "sinopsis": "Historia de la familia Buendía en el pueblo mágico de Macondo, entre lo real y lo maravilloso, a lo largo de un siglo. Obra cumbre del realismo mágico y del Boom latinoamericano.",
+      "palabras_clave": [
+        "garcia marquez",
+        "cien anos de soledad",
+        "realismo magico",
+        "macondo",
+        "boom latinoamericano"
+      ],
+      "ejemplares": 2
+    },
+    {
+      "titulo": "El amor en los tiempos del cólera",
+      "subtitulo": null,
+      "autores": [
+        "Gabriel García Márquez"
+      ],
+      "isbn": null,
+      "editorial": "Sudamericana",
+      "anio": 2004,
+      "idioma": "es",
+      "categoria": "Novela",
+      "dewey": "863",
+      "sinopsis": "Fermina Daza y Florentino Ariza mantienen un amor aplazado por décadas en una ciudad caribeña del siglo XIX. Una novela sobre la vejez, la fidelidad y el paso del tiempo.",
+      "palabras_clave": [
+        "garcia marquez",
+        "amor",
+        "tiempos del colera",
+        "realismo magico",
+        "caribe"
+      ],
+      "ejemplares": 2
+    },
+    {
+      "titulo": "Rayuela",
+      "subtitulo": null,
+      "autores": [
+        "Julio Cortázar"
+      ],
+      "isbn": null,
+      "editorial": "Sudamericana",
+      "anio": 2014,
+      "idioma": "es",
+      "categoria": "Novela",
+      "dewey": "863",
+      "sinopsis": "La vida de Horacio Oliveira entre París y Buenos Aires, una novela abierta que puede leerse en distintos ordenes. Icono del Boom latinoamericano y de la literatura experimental.",
+      "palabras_clave": [
+        "cortazar",
+        "rayuela",
+        "novela",
+        "boom latinoamericano",
+        "literatura experimental"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Bestiario",
+      "subtitulo": null,
+      "autores": [
+        "Julio Cortázar"
+      ],
+      "isbn": null,
+      "editorial": "Losada",
+      "anio": 2011,
+      "idioma": "es",
+      "categoria": "Cuento",
+      "dewey": "863",
+      "sinopsis": "Ocho cuentos en los que lo cotidiano se quiebra por la irrupción de lo fantástico y lo inesperado. Primer libro de cuentos de Julio Cortázar.",
+      "palabras_clave": [
+        "cortazar",
+        "bestiario",
+        "cuentos",
+        "fantastico"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Las armas secretas",
+      "subtitulo": null,
+      "autores": [
+        "Julio Cortázar"
+      ],
+      "isbn": null,
+      "editorial": "Sudamericana",
+      "anio": 2013,
+      "idioma": "es",
+      "categoria": "Cuento",
+      "dewey": "863",
+      "sinopsis": "Ocho cuentos que mezclan lo real y lo fantástico, incluyendo una historia narrada desde la perspectiva de un soldado herido. Segunda colección de cuentos de Cortázar.",
+      "palabras_clave": [
+        "cortazar",
+        "las armas secretas",
+        "cuentos",
+        "fantastico"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Ficciones",
+      "subtitulo": null,
+      "autores": [
+        "Jorge Luis Borges"
+      ],
+      "isbn": null,
+      "editorial": "Emece Editores",
+      "anio": 2009,
+      "idioma": "es",
+      "categoria": "Cuento",
+      "dewey": "863",
+      "sinopsis": "Trece cuentos que entrelazan realidad y fantasía en laberintos, bibliotecas infinitas y ficciones sobre la propia ficción. Obra fundacional de la literatura universal del siglo XX.",
+      "palabras_clave": [
+        "borges",
+        "ficciones",
+        "cuentos",
+        "literatura argentina",
+        "laberinto"
+      ],
+      "ejemplares": 2
+    },
+    {
+      "titulo": "El Aleph",
+      "subtitulo": null,
+      "autores": [
+        "Jorge Luis Borges"
+      ],
+      "isbn": null,
+      "editorial": "Emece Editores",
+      "anio": 2012,
+      "idioma": "es",
+      "categoria": "Cuento",
+      "dewey": "863",
+      "sinopsis": "Veinte relatos que exploran el azar, la identidad y los puntos del universo donde confluyen todos los demás. Incluye el emblemático cuento El Aleph.",
+      "palabras_clave": [
+        "borges",
+        "el aleph",
+        "cuentos",
+        "fantastico",
+        "universo"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Pedro Páramo",
+      "subtitulo": null,
+      "autores": [
+        "Juan Rulfo"
+      ],
+      "isbn": null,
+      "editorial": "Fondo de Cultura Económica",
+      "anio": 2014,
+      "idioma": "es",
+      "categoria": "Novela",
+      "dewey": "863",
+      "sinopsis": "Juan Preciado llega a Comala buscando a su padre y encuentra un pueblo poblado por fantasmas y recuerdos. Novela clave de la literatura mexicana del siglo XX.",
+      "palabras_clave": [
+        "rulfo",
+        "pedro paramo",
+        "novela mexicana",
+        "comala",
+        "fantasmas"
+      ],
+      "ejemplares": 2
+    },
+    {
+      "titulo": "La casa de los espíritus",
+      "subtitulo": null,
+      "autores": [
+        "Isabel Allende"
+      ],
+      "isbn": null,
+      "editorial": "Plaza & Janés",
+      "anio": 2015,
+      "idioma": "es",
+      "categoria": "Novela",
+      "dewey": "863",
+      "sinopsis": "Crónica familiar de las Trueba a lo largo del siglo XX en Chile, entre lo real y lo sobrenatural. Primera novela de Isabel Allende y éxito internacional.",
+      "palabras_clave": [
+        "allende",
+        "casa de los espiritus",
+        "chile",
+        "realismo magico",
+        "familia"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "La ciudad y los perros",
+      "subtitulo": null,
+      "autores": [
+        "Mario Vargas Llosa"
+      ],
+      "isbn": null,
+      "editorial": "Seix Barral",
+      "anio": 2011,
+      "idioma": "es",
+      "categoria": "Novela",
+      "dewey": "863",
+      "sinopsis": "Un grupo de cadetes del Colegio Militar Leoncio Prado enfrenta la violencia, la jerarquía y la amistad en el Lima de los años cincuenta. Primera novela de Vargas Llosa.",
+      "palabras_clave": [
+        "vargas llosa",
+        "la ciudad y los perros",
+        "cadetes",
+        "lima",
+        "boom latinoamericano"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Conversación en La Catedral",
+      "subtitulo": null,
+      "autores": [
+        "Mario Vargas Llosa"
+      ],
+      "isbn": null,
+      "editorial": "Seix Barral",
+      "anio": 2015,
+      "idioma": "es",
+      "categoria": "Novela",
+      "dewey": "863",
+      "sinopsis": "Santiago y su padre Ambrosio conversan en una catedral de Lima bajo la dictadura de Odría. Una radiografía de la corrupción y el poder en el Perú.",
+      "palabras_clave": [
+        "vargas llosa",
+        "conversacion en la catedral",
+        "lima",
+        "dictadura",
+        "peru"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "El túnel",
+      "subtitulo": null,
+      "autores": [
+        "Ernesto Sabato"
+      ],
+      "isbn": null,
+      "editorial": "Sur",
+      "anio": 2010,
+      "idioma": "es",
+      "categoria": "Novela",
+      "dewey": "863",
+      "sinopsis": "Castel narra desde su celda el obsesivo amor que lo llevó a matar a Iriarte, la mujer a la que amaba. Novela existencialista clave de la narrativa argentina.",
+      "palabras_clave": [
+        "sabato",
+        "el tunel",
+        "novela existencialista",
+        "obsesion",
+        "argentina"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Sobre héroes y tumbas",
+      "subtitulo": null,
+      "autores": [
+        "Ernesto Sabato"
+      ],
+      "isbn": null,
+      "editorial": "Sudamericana",
+      "anio": 2012,
+      "idioma": "es",
+      "categoria": "Novela",
+      "dewey": "863",
+      "sinopsis": "Martín, Alejandra y Fernando atraviesan la crisis de identidad y la locura en el Buenos Aires de mediados del siglo XX. Considerada una de las mejores novelas argentinas.",
+      "palabras_clave": [
+        "sabato",
+        "sobre heroes y tumbas",
+        "buenos aires",
+        "identidad",
+        "argentina"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "La tregua",
+      "subtitulo": null,
+      "autores": [
+        "Mario Benedetti"
+      ],
+      "isbn": null,
+      "editorial": "Sudamericana",
+      "anio": 2013,
+      "idioma": "es",
+      "categoria": "Novela",
+      "dewey": "863",
+      "sinopsis": "Martín Santomé, un oficinista de casi cincuenta años, escribe su diario mientras inicia un tardío amor con Laura. Historia de amor, soledad y esperanza en Montevideo.",
+      "palabras_clave": [
+        "benedetti",
+        "la tregua",
+        "montevideo",
+        "amor",
+        "diario"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Gracias por el fuego",
+      "subtitulo": null,
+      "autores": [
+        "Mario Benedetti"
+      ],
+      "isbn": null,
+      "editorial": "Sudamericana",
+      "anio": 2014,
+      "idioma": "es",
+      "categoria": "Novela",
+      "dewey": "863",
+      "sinopsis": "Manuel Santana reflexiona sobre la vida y la muerte mientras recuerda su pasado. Novela corta sobre la vejez y el sentido de la existencia.",
+      "palabras_clave": [
+        "benedetti",
+        "gracias por el fuego",
+        "vejez",
+        "muerte",
+        "reflexion"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Veinte poemas de amor y una canción desesperada",
+      "subtitulo": null,
+      "autores": [
+        "Pablo Neruda"
+      ],
+      "isbn": null,
+      "editorial": "Seix Barral",
+      "anio": 2017,
+      "idioma": "es",
+      "categoria": "Poesía",
+      "dewey": "861",
+      "sinopsis": "Veinte poemas que expresan el amor juvenil, el desamor y la naturaleza con lenguaje sencillo y profundo. El libro de poesía más leído del español contemporáneo.",
+      "palabras_clave": [
+        "neruda",
+        "veinte poemas de amor",
+        "poesia",
+        "amor",
+        "desamor"
+      ],
+      "ejemplares": 2
+    },
+    {
+      "titulo": "Canto general",
+      "subtitulo": null,
+      "autores": [
+        "Pablo Neruda"
+      ],
+      "isbn": null,
+      "editorial": "Seix Barral",
+      "anio": 2014,
+      "idioma": "es",
+      "categoria": "Poesía",
+      "dewey": "861",
+      "sinopsis": "Ciclo poético que recorre la historia, la geografía y la lucha de los pueblos de América Latina. Obra épica y comprometida de Pablo Neruda.",
+      "palabras_clave": [
+        "neruda",
+        "canto general",
+        "poesia",
+        "america latina",
+        "epica"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Residencia en la tierra",
+      "subtitulo": null,
+      "autores": [
+        "Pablo Neruda"
+      ],
+      "isbn": null,
+      "editorial": "Seix Barral",
+      "anio": 2010,
+      "idioma": "es",
+      "categoria": "Poesía",
+      "dewey": "861",
+      "sinopsis": "Conjunto de poemas oscuros y surrealistas escritos durante los viajes de Neruda por Asia. Marca la transición hacia su poesía más madura y comprometida.",
+      "palabras_clave": [
+        "neruda",
+        "residencia en la tierra",
+        "poesia",
+        "surrealismo",
+        "madurez"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Romancero gitano",
+      "subtitulo": null,
+      "autores": [
+        "Federico García Lorca"
+      ],
+      "isbn": null,
+      "editorial": "Alianza Editorial",
+      "anio": 2011,
+      "idioma": "es",
+      "categoria": "Poesía",
+      "dewey": "861",
+      "sinopsis": "Dieciocho romances que celebran la cultura gitana de Andalucía con pasión, muerte y destino. El libro que dio fama a Federico García Lorca.",
+      "palabras_clave": [
+        "lorca",
+        "romancero gitano",
+        "poesia",
+        "andalucia",
+        "gitano"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Poeta en Nueva York",
+      "subtitulo": null,
+      "autores": [
+        "Federico García Lorca"
+      ],
+      "isbn": null,
+      "editorial": "Alianza Editorial",
+      "anio": 2015,
+      "idioma": "es",
+      "categoria": "Poesía",
+      "dewey": "861",
+      "sinopsis": "Poemas escritos durante la estancia de Lorca en Nueva York, críticos con la ciudad moderna y la alienación. Obra fundamental de la poesía del siglo XX.",
+      "palabras_clave": [
+        "lorca",
+        "poeta en nueva york",
+        "poesia",
+        "nueva york",
+        "critica social"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Bodas de sangre",
+      "subtitulo": null,
+      "autores": [
+        "Federico García Lorca"
+      ],
+      "isbn": null,
+      "editorial": "Alianza Editorial",
+      "anio": 2012,
+      "idioma": "es",
+      "categoria": "Teatro",
+      "dewey": "862",
+      "sinopsis": "Tragedia rural en la que una novia abandona a su novio el día de la boda por su antiguo amor. La pasión y el destino desencadenan un final sangriento.",
+      "palabras_clave": [
+        "lorca",
+        "bodas de sangre",
+        "teatro",
+        "tragedia",
+        "andalucia"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "La casa de Bernarda Alba",
+      "subtitulo": null,
+      "autores": [
+        "Federico García Lorca"
+      ],
+      "isbn": null,
+      "editorial": "Alianza Editorial",
+      "anio": 2013,
+      "idioma": "es",
+      "categoria": "Teatro",
+      "dewey": "862",
+      "sinopsis": "Bernarda Alba impone ocho años de luto a sus cinco hijas, reprimiendo sus deseos hasta la tragedia. Drama sobre la autoridad, la pasión y la libertad femenina.",
+      "palabras_clave": [
+        "lorca",
+        "casa de bernarda alba",
+        "teatro",
+        "drama",
+        "mujeres"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Yerma",
+      "subtitulo": null,
+      "autores": [
+        "Federico García Lorca"
+      ],
+      "isbn": null,
+      "editorial": "Alianza Editorial",
+      "anio": 2016,
+      "idioma": "es",
+      "categoria": "Teatro",
+      "dewey": "862",
+      "sinopsis": "Yerma anhela ser madre y no puede, lo que la lleva a un final trágico en una Andalucía opresiva. Segunda obra de la trilogía rural de García Lorca.",
+      "palabras_clave": [
+        "lorca",
+        "yerma",
+        "teatro",
+        "maternidad",
+        "tragedia"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Llanto por Ignacio Sánchez Mejías",
+      "subtitulo": null,
+      "autores": [
+        "Federico García Lorca"
+      ],
+      "isbn": null,
+      "editorial": "Cátedra",
+      "anio": 2012,
+      "idioma": "es",
+      "categoria": "Poesía",
+      "dewey": "861",
+      "sinopsis": "Lamento fúnebre dividido en cuatro partes por la muerte del torero Ignacio Sánchez Mejías. Uno de los poemas más célebres de Federico García Lorca.",
+      "palabras_clave": [
+        "lorca",
+        "llanto por ignacio sanchez mejias",
+        "poesia",
+        "tauromaquia",
+        "muerte"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Hamlet",
+      "subtitulo": null,
+      "autores": [
+        "William Shakespeare"
+      ],
+      "isbn": null,
+      "editorial": "Cátedra",
+      "anio": 2008,
+      "idioma": "es",
+      "categoria": "Teatro",
+      "dewey": "862",
+      "sinopsis": "El príncipe de Dinamarca vela por vengar la muerte de su padre a manos de su tío, quien ahora ocupa el trono y se casó con su madre. Tragedia universal sobre la locura y la venganza.",
+      "palabras_clave": [
+        "shakespeare",
+        "hamlet",
+        "teatro",
+        "tragedia",
+        "dinamarca"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Romeo y Julieta",
+      "subtitulo": null,
+      "autores": [
+        "William Shakespeare"
+      ],
+      "isbn": null,
+      "editorial": "Cátedra",
+      "anio": 2009,
+      "idioma": "es",
+      "categoria": "Teatro",
+      "dewey": "862",
+      "sinopsis": "Dos jóvenes enamorados de familias enemigas, los Montesco y los Capuleto, viven un amor imposible que termina en doble suicidio. La más célebre historia de amor.",
+      "palabras_clave": [
+        "shakespeare",
+        "romeo y julieta",
+        "teatro",
+        "amor",
+        "verona"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "La vida es sueño",
+      "subtitulo": null,
+      "autores": [
+        "Pedro Calderón de la Barca"
+      ],
+      "isbn": null,
+      "editorial": "Cátedra",
+      "anio": 2010,
+      "idioma": "es",
+      "categoria": "Teatro",
+      "dewey": "862",
+      "sinopsis": "Segismundo, prisionero desde su nacimiento, es llevado al palacio para probar si es capaz de gobernar. Reflexión barroca sobre el libre albedrío y el destino.",
+      "palabras_clave": [
+        "calderon",
+        "la vida es sueño",
+        "teatro barroco",
+        "destino",
+        "libre albedrio"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Don Quijote de la Mancha",
+      "subtitulo": null,
+      "autores": [
+        "Miguel de Cervantes"
+      ],
+      "isbn": null,
+      "editorial": "Cátedra",
+      "anio": 2005,
+      "idioma": "es",
+      "categoria": "Novela",
+      "dewey": "863",
+      "sinopsis": "Las aventuras del hidalgo Alonso Quijano, que se cree caballero andante, y de su leal escudero Sancho Panza. Obra cumbre de la literatura en español.",
+      "palabras_clave": [
+        "cervantes",
+        "don quijote",
+        "novela",
+        "caballero andante",
+        "españa"
+      ],
+      "ejemplares": 2
+    },
+    {
+      "titulo": "Cantos de vida y esperanza",
+      "subtitulo": null,
+      "autores": [
+        "Rubén Darío"
+      ],
+      "isbn": null,
+      "editorial": "Espasa",
+      "anio": 2013,
+      "idioma": "es",
+      "categoria": "Poesía",
+      "dewey": "861",
+      "sinopsis": "Recopilación de poemas modernistas de Rubén Darío que reflejan su amor por América y su preocupación por el destino hispano. Cima de la poesía en español.",
+      "palabras_clave": [
+        "dario",
+        "cantos de vida y esperanza",
+        "poesia",
+        "modernismo",
+        "america"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Prosas profanas",
+      "subtitulo": null,
+      "autores": [
+        "Rubén Darío"
+      ],
+      "isbn": null,
+      "editorial": "Espasa",
+      "anio": 2015,
+      "idioma": "es",
+      "categoria": "Poesía",
+      "dewey": "861",
+      "sinopsis": "Poemas modernistas de Rubén Darío que exaltan la belleza, lo exótico y el refinamiento formal. Obra clave para entender el modernismo en español.",
+      "palabras_clave": [
+        "dario",
+        "prosas profanas",
+        "poesia",
+        "modernismo",
+        "belleza"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Cuentos de amor, de locura y de muerte",
+      "subtitulo": null,
+      "autores": [
+        "Horacio Quiroga"
+      ],
+      "isbn": null,
+      "editorial": "Alfaguara",
+      "anio": 2012,
+      "idioma": "es",
+      "categoria": "Cuento",
+      "dewey": "863",
+      "sinopsis": "Diecisiete cuentos ambientados en la selva misionera donde el hombre enfrenta a la naturaleza, la locura y la muerte. Maestro del cuento en español.",
+      "palabras_clave": [
+        "quiroga",
+        "cuentos de amor de locura y de muerte",
+        "cuentos",
+        "selva",
+        "mision"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Cuentos de la selva",
+      "subtitulo": null,
+      "autores": [
+        "Horacio Quiroga"
+      ],
+      "isbn": null,
+      "editorial": "Alfaguara",
+      "anio": 2013,
+      "idioma": "es",
+      "categoria": "Cuento",
+      "dewey": "863",
+      "sinopsis": "Cuentos para niños y adultos donde los animales de la selva misionera son los protagonistas y enseñan valores de respeto a la naturaleza. Clásico infantil uruguayo.",
+      "palabras_clave": [
+        "quiroga",
+        "cuentos de la selva",
+        "infantil",
+        "animales",
+        "naturaleza"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Doña Bárbara",
+      "subtitulo": null,
+      "autores": [
+        "Rómulo Gallegos"
+      ],
+      "isbn": null,
+      "editorial": "Alfaguara",
+      "anio": 2014,
+      "idioma": "es",
+      "categoria": "Novela",
+      "dewey": "863",
+      "sinopsis": "Doña Bárbara, una mujer poderosa y temida de los llanos venezolanos, se enfrenta al educado Santos Luzardo en una lucha por la tierra y el honor.",
+      "palabras_clave": [
+        "gallegos",
+        "dona barbara",
+        "novela",
+        "llanos",
+        "venezuela"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "El laberinto de la soledad",
+      "subtitulo": null,
+      "autores": [
+        "Octavio Paz"
+      ],
+      "isbn": null,
+      "editorial": "Fondo de Cultura Económica",
+      "anio": 2014,
+      "idioma": "es",
+      "categoria": "Ensayo",
+      "dewey": "860",
+      "sinopsis": "Reflexión sobre la identidad mexicana, la máscara y la soledad como rasgos de la cultura de México. Ensayo fundacional del pensamiento latinoamericano.",
+      "palabras_clave": [
+        "paz",
+        "laberinto de la soledad",
+        "ensayo",
+        "mexico",
+        "identidad"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Crónica de una muerte anunciada",
+      "subtitulo": null,
+      "autores": [
+        "Gabriel García Márquez"
+      ],
+      "isbn": null,
+      "editorial": "Sudamericana",
+      "anio": 2016,
+      "idioma": "es",
+      "categoria": "Novela",
+      "dewey": "863",
+      "sinopsis": "El pueblo sabe que Santiago Nasar será asesinado pero nadie impide que ocurra. Novela sobre el honor, el destino y la culpa colectiva en el Caribe.",
+      "palabras_clave": [
+        "garcia marquez",
+        "cronica de una muerte anunciada",
+        "novela",
+        "honor",
+        "caribe"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "El general en su laberinto",
+      "subtitulo": null,
+      "autores": [
+        "Gabriel García Márquez"
+      ],
+      "isbn": null,
+      "editorial": "Sudamericana",
+      "anio": 2017,
+      "idioma": "es",
+      "categoria": "Novela",
+      "dewey": "863",
+      "sinopsis": "Simón Bolívar recorre el Magdalena en su último viaje, recordando sus victorias y soledad mientras la muerte se acerca. Última novela de García Márquez.",
+      "palabras_clave": [
+        "garcia marquez",
+        "el general en su laberinto",
+        "bolivar",
+        "novela",
+        "america latina"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Orgullo y prejuicio",
+      "subtitulo": null,
+      "autores": [
+        "Jane Austen"
+      ],
+      "isbn": "9780141439518",
+      "editorial": "Penguin Classics",
+      "anio": 2003,
+      "idioma": "es",
+      "categoria": "Novela",
+      "dewey": "863",
+      "sinopsis": "Elizabeth Bennet y el señor Darcy superan sus orgullos y prejuicios en la Inglaterra rural del siglo XIX. Una de las novelas románticas más leídas de todos los tiempos.",
+      "palabras_clave": [
+        "austen",
+        "orgullo y prejuicio",
+        "novela",
+        "inglaterra",
+        "amor"
+      ],
+      "ejemplares": 2
+    },
+    {
+      "titulo": "Cumbres borrascosas",
+      "subtitulo": null,
+      "autores": [
+        "Emily Brontë"
+      ],
+      "isbn": "9780141439570",
+      "editorial": "Penguin Classics",
+      "anio": 2004,
+      "idioma": "es",
+      "categoria": "Novela",
+      "dewey": "863",
+      "sinopsis": "Heathcliff y Catherine viven un amor pasional y destructivo en los páramos de Yorkshire. Una de las novelas más intensas de la literatura inglesa.",
+      "palabras_clave": [
+        "bronte",
+        "cumbres borrascosas",
+        "novela",
+        "amor",
+        "inglaterra"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Jane Eyre",
+      "subtitulo": null,
+      "autores": [
+        "Charlotte Brontë"
+      ],
+      "isbn": "9780141439556",
+      "editorial": "Penguin Classics",
+      "anio": 2003,
+      "idioma": "es",
+      "categoria": "Novela",
+      "dewey": "863",
+      "sinopsis": "La huérfana Jane Eyre trabaja como institutriz en la mansión de Thornfield y se enamora de su enigmático señor Rochester. Clásico de la literatura victoriana.",
+      "palabras_clave": [
+        "bronte",
+        "jane eyre",
+        "novela",
+        "victoriana",
+        "amor"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Ana Karénina",
+      "subtitulo": null,
+      "autores": [
+        "León Tolstói"
+      ],
+      "isbn": null,
+      "editorial": "Penguin Classics",
+      "anio": 2005,
+      "idioma": "es",
+      "categoria": "Novela",
+      "dewey": "863",
+      "sinopsis": "Ana Karénina arriesga todo por su amor al conde Vronsky en la Rusia zarista. Paralelamente, Levin busca el sentido de la vida en el campo ruso.",
+      "palabras_clave": [
+        "tolstoi",
+        "ana karenina",
+        "novela",
+        "rusia",
+        "amor"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Guerra y paz",
+      "subtitulo": null,
+      "autores": [
+        "León Tolstói"
+      ],
+      "isbn": null,
+      "editorial": "Penguin Classics",
+      "anio": 2008,
+      "idioma": "es",
+      "categoria": "Novela",
+      "dewey": "863",
+      "sinopsis": "Varias familias aristocráticas rusas viven las invasiones napoleónicas del siglo XIX. Fresco histórico sobre la guerra, la paz y el destino humano.",
+      "palabras_clave": [
+        "tolstoi",
+        "guerra y paz",
+        "novela",
+        "rusia",
+        "napoleon"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Madame Bovary",
+      "subtitulo": null,
+      "autores": [
+        "Gustave Flaubert"
+      ],
+      "isbn": null,
+      "editorial": "Folio",
+      "anio": 2007,
+      "idioma": "es",
+      "categoria": "Novela",
+      "dewey": "863",
+      "sinopsis": "Emma Bovary busca escapar de la mediocridad de su vida provincial a través del amor y el lujo, llevándose a la ruina. Obra maestra del realismo literario.",
+      "palabras_clave": [
+        "flaubert",
+        "madame bovary",
+        "novela",
+        "realismo",
+        "francia"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "1984",
+      "subtitulo": null,
+      "autores": [
+        "George Orwell"
+      ],
+      "isbn": "9780451524935",
+      "editorial": "Signet",
+      "anio": 1950,
+      "idioma": "es",
+      "categoria": "Novela",
+      "dewey": "863",
+      "sinopsis": "Winston Smith vive bajo el ojo del Gran Hermano en un estado totalitario que controla hasta el pensamiento. Distopía sobre la vigilancia y la manipulación.",
+      "palabras_clave": [
+        "orwell",
+        "1984",
+        "distopia",
+        "totalitarismo",
+        "vigilancia"
+      ],
+      "ejemplares": 2
+    },
+    {
+      "titulo": "Matar a un ruiseñor",
+      "subtitulo": null,
+      "autores": [
+        "Harper Lee"
+      ],
+      "isbn": "9780061120084",
+      "editorial": "Harper Perennial",
+      "anio": 2010,
+      "idioma": "es",
+      "categoria": "Novela",
+      "dewey": "863",
+      "sinopsis": "La pequeña Scout Finch crece en el Alabama de los años treinta mientras su padre defiende a un hombre negro acusado injustamente. Novela sobre el racismo y la justicia.",
+      "palabras_clave": [
+        "lee",
+        "matar a un ruisenor",
+        "novela",
+        "racismo",
+        "justicia"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Dune",
+      "subtitulo": null,
+      "autores": [
+        "Frank Herbert"
+      ],
+      "isbn": "9780441013593",
+      "editorial": "Ace",
+      "anio": 2005,
+      "idioma": "es",
+      "categoria": "Novela",
+      "dewey": "863",
+      "sinopsis": "Paul Atreides llega al planeta desierto Arrakis para controlar la especia, la sustancia más valiosa del universo. Épica de ciencia ficción sobre poder y ecología.",
+      "palabras_clave": [
+        "herbert",
+        "dune",
+        "ciencia ficcion",
+        "arrakis",
+        "epica"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "El hobbit",
+      "subtitulo": null,
+      "autores": [
+        "J.R.R. Tolkien"
+      ],
+      "isbn": "9780618260300",
+      "editorial": "Houghton Mifflin",
+      "anio": 2012,
+      "idioma": "es",
+      "categoria": "Novela",
+      "dewey": "863",
+      "sinopsis": "Bilbo Bolsón, un hobbit de la Comarca, emprende un viaje con trece enanos y un mago para recuperar un tesoro guardado por un dragón. Preludio de El Señor de los Anillos.",
+      "palabras_clave": [
+        "tolkien",
+        "el hobbit",
+        "fantasia",
+        "dragones",
+        "comarca"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "El Señor de los Anillos: La Comunidad del Anillo",
+      "subtitulo": null,
+      "autores": [
+        "J.R.R. Tolkien"
+      ],
+      "isbn": null,
+      "editorial": "Minotauro",
+      "anio": 2012,
+      "idioma": "es",
+      "categoria": "Novela",
+      "dewey": "863",
+      "sinopsis": "Frodo Bolsón recibe el Anillo Único y debe llevarlo a Monte Doom para destruirlo, formando la Comunidad con amigos de todas las razas. Inicio de la épica fantástica.",
+      "palabras_clave": [
+        "tolkien",
+        "senor de los anillos",
+        "fantasia",
+        "anillo",
+        "comunidad"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Historia de una escalera",
+      "subtitulo": null,
+      "autores": [
+        "Antonio Buero Vallejo"
+      ],
+      "isbn": null,
+      "editorial": "Cátedra",
+      "anio": 2011,
+      "idioma": "es",
+      "categoria": "Teatro",
+      "dewey": "862",
+      "sinopsis": "Tres familias vecinas conviven en una escalera de un barrio madrileño durante varias décadas, frustradas en sus aspiraciones de progreso. Teatro social español.",
+      "palabras_clave": [
+        "buero vallejo",
+        "historia de una escalera",
+        "teatro",
+        "madrid",
+        "teatro social"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "La zapatera prodigiosa",
+      "subtitulo": null,
+      "autores": [
+        "Federico García Lorca"
+      ],
+      "isbn": null,
+      "editorial": "Alianza Editorial",
+      "anio": 2014,
+      "idioma": "es",
+      "categoria": "Teatro",
+      "dewey": "862",
+      "sinopsis": "Una zapatera joven casada con un artesano mayor desea disfrutar de la vida y el baile, lo que desata los chismes del pueblo. Farsa andaluza de García Lorca.",
+      "palabras_clave": [
+        "lorca",
+        "zapatera prodigiosa",
+        "teatro",
+        "andalucia",
+        "farsa"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Mariana Pineda",
+      "subtitulo": null,
+      "autores": [
+        "Federico García Lorca"
+      ],
+      "isbn": null,
+      "editorial": "Alianza Editorial",
+      "anio": 2015,
+      "idioma": "es",
+      "categoria": "Teatro",
+      "dewey": "862",
+      "sinopsis": "Mariana Pineda, heroína granadina, es ejecutada por bordar una bandera liberal en el siglo XIX. Drama histórico sobre la libertad y el sacrificio.",
+      "palabras_clave": [
+        "lorca",
+        "mariana pineda",
+        "teatro",
+        "granada",
+        "libertad"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Las venas abiertas de América Latina",
+      "subtitulo": null,
+      "autores": [
+        "Eduardo Galeano"
+      ],
+      "isbn": null,
+      "editorial": "Siglo XXI",
+      "anio": 2014,
+      "idioma": "es",
+      "categoria": "Historia",
+      "dewey": "980",
+      "sinopsis": "Recorrido por la explotación de los recursos de América Latina desde la colonia hasta el presente. Denuncia del saqueo económico y social del continente.",
+      "palabras_clave": [
+        "galeano",
+        "venas abiertas de america latina",
+        "historia",
+        "explotacion",
+        "america latina"
+      ],
+      "ejemplares": 2
+    },
+    {
+      "titulo": "Cosmos",
+      "subtitulo": null,
+      "autores": [
+        "Carl Sagan"
+      ],
+      "isbn": null,
+      "editorial": "Planeta",
+      "anio": 2013,
+      "idioma": "es",
+      "categoria": "Ciencia",
+      "dewey": "500",
+      "sinopsis": "Viaje por el universo, el origen de la vida y la historia de la ciencia divulgado por Carl Sagan. Un clásico de la divulgación científica para todos los públicos.",
+      "palabras_clave": [
+        "sagan",
+        "cosmos",
+        "ciencia",
+        "universo",
+        "divulgacion"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Una breve historia del tiempo",
+      "subtitulo": null,
+      "autores": [
+        "Stephen Hawking"
+      ],
+      "isbn": null,
+      "editorial": "Crítica",
+      "anio": 2015,
+      "idioma": "es",
+      "categoria": "Ciencia",
+      "dewey": "500",
+      "sinopsis": "Stephen Hawking explica los orígenes del universo, los agujeros negros y la naturaleza del tiempo en un lenguaje accesible. Bestseller de divulgación científica.",
+      "palabras_clave": [
+        "hawking",
+        "breve historia del tiempo",
+        "ciencia",
+        "universo",
+        "tiempo"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Ética a Nicómaco",
+      "subtitulo": null,
+      "autores": [
+        "Aristóteles"
+      ],
+      "isbn": null,
+      "editorial": "Gredos",
+      "anio": 2010,
+      "idioma": "es",
+      "categoria": "Filosofía",
+      "dewey": "100",
+      "sinopsis": "Aristóteles reflexiona sobre la felicidad, la virtud y el bien supremo como fines de la acción humana. Edición moderna de uno de los textos fundacionales de la ética.",
+      "palabras_clave": [
+        "aristoteles",
+        "etica a nicomaco",
+        "filosofia",
+        "virtud",
+        "felicidad"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "El mundo de Sofía",
+      "subtitulo": null,
+      "autores": [
+        "Jostein Gaarder"
+      ],
+      "isbn": null,
+      "editorial": "Siruela",
+      "anio": 2012,
+      "idioma": "es",
+      "categoria": "Filosofía",
+      "dewey": "100",
+      "sinopsis": "Sofía Amundsen recibe lecciones de filosofía misteriosas que la llevan a recorrer la historia del pensamiento desde los griegos hasta la modernidad.",
+      "palabras_clave": [
+        "gaarder",
+        "mundo de sofia",
+        "filosofia",
+        "historia del pensamiento",
+        "divulgacion"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "El arte de la guerra",
+      "subtitulo": null,
+      "autores": [
+        "Sun Tzu"
+      ],
+      "isbn": null,
+      "editorial": "Siruela",
+      "anio": 2013,
+      "idioma": "es",
+      "categoria": "Filosofía",
+      "dewey": "100",
+      "sinopsis": "Tratado militar y estratégico de la China antigua aplicado hoy a los negocios, la política y la vida cotidiana. Texto atemporal sobre el liderazgo y la estrategia.",
+      "palabras_clave": [
+        "sun tzu",
+        "arte de la guerra",
+        "filosofia",
+        "estrategia",
+        "liderazgo"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Biografía de un cimarrón",
+      "subtitulo": null,
+      "autores": [
+        "Miguel Barnet"
+      ],
+      "isbn": null,
+      "editorial": "Fondo de Cultura Económica",
+      "anio": 2013,
+      "idioma": "es",
+      "categoria": "Biografía",
+      "dewey": "980",
+      "sinopsis": "Testimonio de Esteban Montejo, un esclavo cubano que huyó y vivió como cimarrón hasta la abolición de la esclavitud. Obra fundamental de la etnohistoria cubana.",
+      "palabras_clave": [
+        "barnet",
+        "biografia de un cimarron",
+        "biografia",
+        "esclavitud",
+        "cuba"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Diccionario de la lengua española",
+      "subtitulo": null,
+      "autores": [
+        "Real Academia Española"
+      ],
+      "isbn": null,
+      "editorial": "Espasa",
+      "anio": 2014,
+      "idioma": "es",
+      "categoria": "Diccionario",
+      "dewey": "460",
+      "sinopsis": "Obra de referencia que recoge el vocabulario de la lengua española con sus significados, usos y variantes. Edición de la Real Academia Española.",
+      "palabras_clave": [
+        "rae",
+        "diccionario",
+        "lengua espanola",
+        "referencia",
+        "vocabulario"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Psicología de la vida cotidiana",
+      "subtitulo": null,
+      "autores": [
+        "Daniel Goleman"
+      ],
+      "isbn": null,
+      "editorial": "Kairós",
+      "anio": 2012,
+      "idioma": "es",
+      "categoria": "Psicología",
+      "dewey": "150",
+      "sinopsis": "Exploración de la inteligencia emocional y cómo gestionar las emociones en el día a día para mejorar las relaciones y el bienestar personal.",
+      "palabras_clave": [
+        "goleman",
+        "psicologia",
+        "emociones",
+        "inteligencia emocional",
+        "bienestar"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "El principito",
+      "subtitulo": null,
+      "autores": [
+        "Antoine de Saint-Exupéry"
+      ],
+      "isbn": null,
+      "editorial": "Salamandra",
+      "anio": 2015,
+      "idioma": "es",
+      "categoria": "Infantil",
+      "dewey": "863",
+      "sinopsis": "Un piloto varado en el desierto conoce a un pequeño príncipe de otro planeta que le enseña lo esencial de la amistad y el amor. Cuento filosófico para todas las edades.",
+      "palabras_clave": [
+        "saint exupery",
+        "el principito",
+        "infantil",
+        "amistad",
+        "planeta"
+      ],
+      "ejemplares": 3
+    },
+    {
+      "titulo": "Donde viven los monstruos",
+      "subtitulo": null,
+      "autores": [
+        "Maurice Sendak"
+      ],
+      "isbn": null,
+      "editorial": "Fondo de Cultura Económica",
+      "anio": 2014,
+      "idioma": "es",
+      "categoria": "Infantil",
+      "dewey": "863",
+      "sinopsis": "Max, un niño travieso, viaja a la isla de los monstruos y se convierte en su rey antes de regresar a casa, donde le espera su cena. Clásico de la literatura infantil.",
+      "palabras_clave": [
+        "sendak",
+        "donde viven los monstruos",
+        "infantil",
+        "monstruos",
+        "imaginacion"
+      ],
+      "ejemplares": 2
+    },
+    {
+      "titulo": "La oruga muy hambrienta",
+      "subtitulo": null,
+      "autores": [
+        "Eric Carle"
+      ],
+      "isbn": null,
+      "editorial": "Timun Mas",
+      "anio": 2016,
+      "idioma": "es",
+      "categoria": "Infantil",
+      "dewey": "863",
+      "sinopsis": "Una oruga recién nacida come distintos alimentos cada día de la semana hasta convertirse en una hermosa mariposa. Libro ilustrado para primeros lectores.",
+      "palabras_clave": [
+        "carle",
+        "oruga muy hambrienta",
+        "infantil",
+        "animales",
+        "naturaleza"
+      ],
+      "ejemplares": 2
+    },
+    {
+      "titulo": "Matilda",
+      "subtitulo": null,
+      "autores": [
+        "Roald Dahl"
+      ],
+      "isbn": null,
+      "editorial": "Alfaguara",
+      "anio": 2013,
+      "idioma": "es",
+      "categoria": "Infantil",
+      "dewey": "863",
+      "sinopsis": "Matilda es una niña muy inteligente y amante de los libros que descubre poderes especiales para enfrentarse a la temible directora Trunchbull. Historia de ingenio y valentía.",
+      "palabras_clave": [
+        "dahl",
+        "matilda",
+        "infantil",
+        "libros",
+        "poderes"
+      ],
+      "ejemplares": 2
+    },
+    {
+      "titulo": "Harry Potter y la piedra filosofal",
+      "subtitulo": null,
+      "autores": [
+        "J.K. Rowling"
+      ],
+      "isbn": "9780747532699",
+      "editorial": "Salamandra",
+      "anio": 2001,
+      "idioma": "es",
+      "categoria": "Juvenil",
+      "dewey": "863",
+      "sinopsis": "Harry Potter descubre que es mago y entra en el colegio Hogwarts de Magia y Hechicería, donde vive su primera gran aventura. Inicio de la saga más leída del mundo.",
+      "palabras_clave": [
+        "rowling",
+        "harry potter",
+        "juvenil",
+        "magia",
+        "hogwarts"
+      ],
+      "ejemplares": 3
+    },
+    {
+      "titulo": "El diario de Ana Frank",
+      "subtitulo": null,
+      "autores": [
+        "Ana Frank"
+      ],
+      "isbn": null,
+      "editorial": "Debolsillo",
+      "anio": 2012,
+      "idioma": "es",
+      "categoria": "Juvenil",
+      "dewey": "940",
+      "sinopsis": "Ana Frank escribe su diario mientras se oculta con su familia de los nazis en Ámsterdam durante la Segunda Guerra Mundial. Testimonio conmovedor de la infancia en guerra.",
+      "palabras_clave": [
+        "ana frank",
+        "diario",
+        "juvenil",
+        "segunda guerra mundial",
+        "holocausto"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Charlie y la fábrica de chocolate",
+      "subtitulo": null,
+      "autores": [
+        "Roald Dahl"
+      ],
+      "isbn": null,
+      "editorial": "Alfaguara",
+      "anio": 2015,
+      "idioma": "es",
+      "categoria": "Infantil",
+      "dewey": "863",
+      "sinopsis": "Charlie Bucket gana un boleto dorado para visitar la misteriosa fábrica de chocolates de Willy Wonka junto a otros cuatro niños. Aventura llena de dulces y sorpresas.",
+      "palabras_clave": [
+        "dahl",
+        "charlie y la fabrica de chocolate",
+        "infantil",
+        "chocolate",
+        "aventura"
+      ],
+      "ejemplares": 2
+    },
+    {
+      "titulo": "Cazadores de sombras: Ciudad de hueso",
+      "subtitulo": null,
+      "autores": [
+        "Cassandra Clare"
+      ],
+      "isbn": null,
+      "editorial": "Walker Books",
+      "anio": 2016,
+      "idioma": "es",
+      "categoria": "Juvenil",
+      "dewey": "863",
+      "sinopsis": "Clary Fray descubre que puede ver seres sobrenaturales y se une a los Cazadores de Sombras para proteger el mundo de demonios y brujos. Inicio de la saga juvenil.",
+      "palabras_clave": [
+        "clare",
+        "cazadores de sombras",
+        "juvenil",
+        "fantasia",
+        "demonios"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Los juegos del hambre",
+      "subtitulo": null,
+      "autores": [
+        "Suzanne Collins"
+      ],
+      "isbn": null,
+      "editorial": "Molino",
+      "anio": 2014,
+      "idioma": "es",
+      "categoria": "Juvenil",
+      "dewey": "863",
+      "sinopsis": "Katniss Everdeen se ofrece como tributo en los Juegos del Hambre, una competición televisiva donde solo uno sobrevive. Crítica distópica al poder y los medios.",
+      "palabras_clave": [
+        "collins",
+        "juegos del hambre",
+        "juvenil",
+        "distopia",
+        "supervivencia"
+      ],
+      "ejemplares": 2
+    },
+    {
+      "titulo": "El alquimista",
+      "subtitulo": null,
+      "autores": [
+        "Paulo Coelho"
+      ],
+      "isbn": null,
+      "editorial": "Planeta",
+      "anio": 2011,
+      "idioma": "es",
+      "categoria": "Juvenil",
+      "dewey": "863",
+      "sinopsis": "Santiago, un joven pastor andaluz, viaja a Egipto en busca de un tesoro y descubre la leyenda personal que cada persona debe cumplir. Cuento sobre seguir los sueños.",
+      "palabras_clave": [
+        "coelho",
+        "el alquimista",
+        "juvenil",
+        "suenos",
+        "egipto"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Percy Jackson y el ladrón del rayo",
+      "subtitulo": null,
+      "autores": [
+        "Rick Riordan"
+      ],
+      "isbn": null,
+      "editorial": "Puck",
+      "anio": 2015,
+      "idioma": "es",
+      "categoria": "Juvenil",
+      "dewey": "863",
+      "sinopsis": "Percy Jackson descubre que es hijo de Poseidón y debe recuperar el rayo robado de Zeus para evitar una guerra entre los dioses del Olimpo. Aventura mitológica juvenil.",
+      "palabras_clave": [
+        "riordan",
+        "percy jackson",
+        "juvenil",
+        "mitologia",
+        "dioses"
+      ],
+      "ejemplares": 2
+    },
+    {
+      "titulo": "La isla del tesoro",
+      "subtitulo": null,
+      "autores": [
+        "Robert Louis Stevenson"
+      ],
+      "isbn": null,
+      "editorial": "Alianza Editorial",
+      "anio": 2013,
+      "idioma": "es",
+      "categoria": "Juvenil",
+      "dewey": "863",
+      "sinopsis": "Jim Hawkins embarca en una aventura en busca del tesoro del pirata Flint, enfrentándose al astuto Long John Silver. Clásico de aventuras juvenil.",
+      "palabras_clave": [
+        "stevenson",
+        "isla del tesoro",
+        "juvenil",
+        "piratas",
+        "aventura"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Alicia en el país de las maravillas",
+      "subtitulo": null,
+      "autores": [
+        "Lewis Carroll"
+      ],
+      "isbn": null,
+      "editorial": "Alianza Editorial",
+      "anio": 2014,
+      "idioma": "es",
+      "categoria": "Infantil",
+      "dewey": "863",
+      "sinopsis": "Alicia cae por una madriguera y llega a un mundo absurdo lleno de personajes extraños, como el Conejo Blanco y la Reina de Corazones. Cuento clásico de fantasía.",
+      "palabras_clave": [
+        "carroll",
+        "alicia pais maravillas",
+        "infantil",
+        "fantasia",
+        "conejito"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "El viejo y el mar",
+      "subtitulo": null,
+      "autores": [
+        "Ernest Hemingway"
+      ],
+      "isbn": null,
+      "editorial": "Editorial Letras de Cabral",
+      "anio": 2012,
+      "idioma": "es",
+      "categoria": "Novela",
+      "dewey": "863",
+      "sinopsis": "Santiago, un anciano pescador cubano, lucha durante días contra un enorme marlín en el Golfo de México. Historia de dignidad, esfuerzo y lucha contra la naturaleza.",
+      "palabras_clave": [
+        "hemingway",
+        "viejo y el mar",
+        "novela",
+        "pesca",
+        "cuba"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "El Eternauta",
+      "subtitulo": null,
+      "autores": [
+        "Héctor Germán Oesterheld"
+      ],
+      "isbn": null,
+      "editorial": "Hora Cero",
+      "anio": 1957,
+      "idioma": "es",
+      "categoria": "Cómic",
+      "dewey": "741",
+      "sinopsis": "Una invasión alienígena arrasa Buenos Aires y un grupo de sobrevivientes resiste bajo una nevada mortal.",
+      "palabras_clave": [
+        "comic",
+        "ciencia ficcion",
+        "argentina",
+        "invasion"
+      ],
+      "ejemplares": 2
+    },
+    {
+      "titulo": "La invención de Morel",
+      "subtitulo": null,
+      "autores": [
+        "Adolfo Bioy Casares"
+      ],
+      "isbn": null,
+      "editorial": "Losada",
+      "anio": 1940,
+      "idioma": "es",
+      "categoria": "Novela",
+      "dewey": "863",
+      "sinopsis": "Un fugitivo llega a una isla desierta y descubre a un grupo de personas que repiten, sin saberlo, una semana grabada.",
+      "palabras_clave": [
+        "novela",
+        "isla",
+        "fantastico",
+        "argentina"
+      ],
+      "ejemplares": 2
+    },
+    {
+      "titulo": "Aura",
+      "subtitulo": null,
+      "autores": [
+        "Carlos Fuentes"
+      ],
+      "isbn": null,
+      "editorial": "Era",
+      "anio": 1962,
+      "idioma": "es",
+      "categoria": "Novela",
+      "dewey": "863",
+      "sinopsis": "Un joven historiador acepta ordenar los papeles de una viuda y encuentra una casa donde el tiempo parece no avanzar.",
+      "palabras_clave": [
+        "novela",
+        "mexico",
+        "fantastico",
+        "tiempo"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Los ríos profundos",
+      "subtitulo": null,
+      "autores": [
+        "José María Arguedas"
+      ],
+      "isbn": null,
+      "editorial": "Losada",
+      "anio": 1958,
+      "idioma": "es",
+      "categoria": "Novela",
+      "dewey": "863",
+      "sinopsis": "Ernesto, un adolescente quechua, crece entre internados y pueblos andinos mientras busca su lugar en el mundo.",
+      "palabras_clave": [
+        "novela",
+        "peru",
+        "andes",
+        "identidad"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "Poema de Chile",
+      "subtitulo": null,
+      "autores": [
+        "Gabriela Mistral"
+      ],
+      "isbn": null,
+      "editorial": "Pomaire",
+      "anio": 1967,
+      "idioma": "es",
+      "categoria": "Poesía",
+      "dewey": "861",
+      "sinopsis": "Un recorrido poético por el paisaje chileno, escrito como diálogo entre la poeta y un niño.",
+      "palabras_clave": [
+        "poesia",
+        "chile",
+        "viaje",
+        "infancia"
+      ],
+      "ejemplares": 1
+    },
+    {
+      "titulo": "El otoño del patriarca",
+      "subtitulo": null,
+      "autores": [
+        "Gabriel García Márquez"
+      ],
+      "isbn": null,
+      "editorial": "Plaza y Janés",
+      "anio": 1975,
+      "idioma": "es",
+      "categoria": "Novela",
+      "dewey": "863",
+      "sinopsis": "Un dictador eterno gobierna un país caribeño mientras el poder y la soledad lo van consumiendo.",
+      "palabras_clave": [
+        "novela",
+        "dictador",
+        "poder",
+        "caribe"
+      ],
+      "ejemplares": 2
+    },
+    {
+      "titulo": "La metamorfosis",
+      "subtitulo": null,
+      "autores": [
+        "Franz Kafka"
+      ],
+      "isbn": null,
+      "editorial": "Alianza",
+      "anio": 1915,
+      "idioma": "es",
+      "categoria": "Cuento",
+      "dewey": "833",
+      "sinopsis": "Gregorio Samsa despierta convertido en un insecto y su familia debe enfrentar la transformación.",
+      "palabras_clave": [
+        "cuento",
+        "absurdo",
+        "familia",
+        "kafka"
+      ],
+      "ejemplares": 2
+    }
+  ]
+}
